@@ -31,9 +31,9 @@ var trilha;
 var ponto;
 
 function preload(){
-  raquetada = loadSound("raquetada.mp3");
-  trilha = loadSound("trilha.mp3");
-  ponto = loadSound("ponto.mp3");
+  raquetada = loadSound("music/raquetada.mp3");
+  trilha = loadSound("music/trilha.mp3");
+  ponto = loadSound("music/ponto.mp3");
 }
 
 function setup() {
